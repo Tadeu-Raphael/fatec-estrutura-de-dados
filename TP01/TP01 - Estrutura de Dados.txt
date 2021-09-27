@@ -9,6 +9,6 @@ Cilindro (FEITO)
 Automóvel (FEITO)
 Matriz (FEITO)
 Televisão (FEITO)
-Ar condicionado
+Ar condicionado (FEITO)
 
 Entrega: um arquivo com a extensão .h ou se preferir um aquivo texto.
