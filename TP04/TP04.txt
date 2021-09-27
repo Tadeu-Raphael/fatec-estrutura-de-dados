@@ -1,0 +1,11 @@
+Dupla Fila >
+
+Utilizando os conceitos de Fila, criar uma aplicação para uma Dupla Fila.
+Ao usuário será oferecido um menu com as seguintes atividades:
+
+1 - insere no final da fila
+2 - insere no início da fila
+3 - remove do início da fila
+4 - remove do final da fila
+5 - primeiro elemento
+6 - último´elemento

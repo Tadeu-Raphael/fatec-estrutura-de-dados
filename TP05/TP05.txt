@@ -1,0 +1,9 @@
+Fila em alocação ligada
+
+Utilizando um fila em alocação ligada, criar uma aplicação que permita ao usuário as opções:
+
+1-insere
+2-remove
+3-primeiro da fila
+4-exibir a fila
+9-fim

@@ -1,0 +1,13 @@
+Simulando um Teatro
+Criar uma aplicação para a simulação de vendas de ingressos em um teatro.
+Ao usuário, a aplicação deverá permitir a definição do tamanho do teatro e as 
+operações selecionadas a partir de um menu.
+1 - reservar um lugar (venda)
+2 - devolver a reserva (devolução)
+3 - trocar de lugar
+Importante também a visualização da quantidade de ingressos vendidos/disponíveis (use o contador.h).
+Lembrando que embora estejamos utilizando o conceito de uma lista linear
+com implementação em alocação sequencial (vetor), o usuário deverá visualizar
+o teatro em forma de 'matriz' (fileiras x poltronas)
+
+Entregar o projeto em um arquivo "zipado".
