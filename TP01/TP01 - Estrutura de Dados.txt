@@ -2,13 +2,13 @@ Classes e Objetos
 Criar uma struct ou classe para cada um dos seguintes objetos:
 Triangulo (FEITO)
 Quadrilátero (FEITO)
-Funcionário
-Livro
-Ônibus
-Cilindro 
-Automóvel
-Matriz
-Televisão
+Funcionário (FEITO)
+Livro (FEITO)
+Ônibus (FEITO)
+Cilindro (FEITO)
+Automóvel (FEITO)
+Matriz (FEITO)
+Televisão (FEITO)
 Ar condicionado
 
 Entrega: um arquivo com a extensão .h ou se preferir um aquivo texto.
